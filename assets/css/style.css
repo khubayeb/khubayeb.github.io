@@ -171,7 +171,9 @@ html, body {
 }
 
 .site-logo img {
-    padding-bottom: 2px;
+	max-width: 300px;
+	padding-bottom: 2px;
+
 }
 
 /* Navigation */
